@@ -21,7 +21,7 @@ This project builds a data-driven pricing framework for 21,613 residential prope
 | 📊 Observations | 21,613 rows |
 | 📋 Variables | 21 columns |
 | 📅 Time Period | May 2014 – May 2015 |
-| 🌐 Source | Kaggle — King County House Sales |
+| 🌐 Source | Kaggle — King County House Sales https://www.kaggle.com/datasets/harlfoxem/housesalesprediction |
 
 ---
 
