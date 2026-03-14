@@ -1,2 +1,1 @@
-# real-estate-pricing-ml
-Predicting King County residential property prices using Linear Regression, Random Forest &amp; Gradient Boosting ML models with a Gradio interactive dashboard.
+This project builds a data-driven pricing framework for 21,613 residential property sales in King County, Seattle (2014–2015). It covers end-to-end EDA, feature engineering (HouseAge, LivingToLotRatio, BathsPerBedroom), outlier treatment, and benchmarks Linear Regression, Decision Tree, Random Forest, and Gradient Boosting models for both regression (price prediction) and classification (market tier segmentation). A Gradio UI allows interactive price estimation by property attributes.
